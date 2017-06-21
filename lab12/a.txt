@@ -1,0 +1,41 @@
+卷 LENOVO 的文件夹 PATH 列表
+卷序列号为 000000D5 C2F5:31B4
+D:.
+│  a.txt
+│  content.html
+│  index.html
+│  list.html
+│  top&bottom.html
+│  
+├─css
+│      content.css
+│      index.css
+│      list.css
+│      top&bottom.css
+│      
+└─images
+        bg1.png
+        bodybg.jpg
+        gakupo.jpg
+        kaito.jpg
+        kuang.png
+        kuang1.jpg
+        kuang1.png
+        large.jpg
+        len.jpg
+        libg.jpg
+        line.jpg
+        logo.jpg
+        luka.jpg
+        meiko.jpg
+        miku.jpg
+        mikubg.jpg
+        mikuyxbg.png
+        newlogo.jpg
+        newlogo.png
+        rin.jpg
+        suoyin.jpg
+        timg.jpg
+        topbig.jpg
+        vjia.jpg
+        

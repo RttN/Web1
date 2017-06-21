@@ -1,0 +1,144 @@
+.neirongkuang{
+	margin:0 auto;
+	background-position:center top;
+	width:1100px;
+    clear:both;
+}
+.zuocekuangjia{
+	float:left;
+    width:200px;
+}
+.youcekuangjia{
+	float:left;
+	width:800px;
+	margin-left: 35px;
+	color:pink;
+
+}
+.weizhi{
+	width:270px;
+	height:40px;
+	font-size:14px;
+}
+.weizhi p{
+	color:pink;
+	padding:15px 0px 0px 20px;
+}
+.suoyinkuang{
+	width:200px;
+	margin:20px 100px 0px 0px;
+	background:url(../images/bg.png);
+	border:1px solid #c9baa5;
+    text-align: center;
+}
+
+.peixundongtaikuang li{
+	font-size: 15px;
+	text-align: center;
+	margin:20px 0 20px 0;
+	font-weight: bold;
+
+}
+
+
+.mikukuang{
+	background:url(../images/libg.jpg);
+	margin: 70px 0 0 0px;
+
+	width:795px;
+	height:55px;
+	border:1px solid pink;
+}
+.mikukuang p{
+	padding-left: 60px;
+	font-size: 25px;
+	color:#f775ae;
+}
+.zuocekuangjia a:hover{
+	background-position: left;
+	background-repeat: no-repeat;
+	color:red;
+
+}
+.mikuyx{
+	margin-top: 20px;
+	padding-left: 5px;
+	height:800px;
+	background-image: url(../images/mikuyxbg.png);
+}
+.songname{
+	width: 500px;
+	float:left;
+	padding-left: 58px;
+
+}
+.songname li{
+	list-style-image:url(../images/pot.gif);
+	margin-top:15px;
+	font-size: 15px;
+}
+.riqi{
+	width: 235px;
+	float:left;
+
+}
+.riqi li{
+	text-align: right;
+	list-style-image:url(../images/pot.gif);
+	margin-top:15px;
+	font-size: 15px;
+	list-style-type:none;
+}
+.yeshu{
+	margin: 20px 0 0 0;
+	padding-top:30px;
+	text-align: center;
+	clear:both;
+	height:40px;
+	width: 800px;
+}
+.kuang{
+	height:30px;
+	width:40px;
+	margin:0px 0px 0px 0px;
+	border:1px solid pink;
+}
+.images{
+	background-color:none;
+}
+.image{
+	width:195px;
+	height:165px;
+	float:left;
+	margin:0px 0px 20px 0px;
+	border:1px solid gray;
+}
+.img{
+	width:135px;
+	height:120px;
+	float:left;
+	opacity:0.5;
+}
+.desc{
+	font-size:12px;
+	float:left;
+	padding:0px 80px;
+	margin:px;
+	height:100px;
+	color:pink;
+}
+.img:hover{
+	opacity:1;
+}
+div.image img{
+	margin:3px;
+	border:1px solid #bebebe;
+	width:190px;
+	height:160px;
+}
+div.image a:hover img{
+	border:1px solid #333333;
+}
+.suoyintu img{
+	height:40px;
+}

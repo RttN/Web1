@@ -1,0 +1,104 @@
+.center{
+	padding:0px 120px;
+	width:1000px;
+	height:1050px;
+	overflow:hidden;
+}
+.centerone{
+	background-color:none;
+}
+.oneleft img{
+	width:650px;
+	float: left;
+}
+.oneright{
+	background:url(../images/kuang.png);
+	width:310px;
+	height:541px;
+	float:right;
+}
+.centertwo{
+	background-color:none;
+}
+.image{
+	width:195px;
+	height:165px;
+	float:left;
+	margin:0px 0px 2px 0px;
+	border:1px solid gray;
+}
+.img{
+	width:135px;
+	height:120px;
+	float:left;
+	opacity:0.5;
+}
+.desc{
+	font-size:12px;
+	float:left;
+	padding:0px 80px;
+}
+.img:hover{
+	opacity:1;
+}
+div.image img{
+	margin:3px;
+	border:1px solid #bebebe;
+	width:190px;
+	height:160px;
+}
+div.image a:hover img{
+	border:1px solid #333333;
+}
+.centertre{
+	width:1000px;
+    
+}
+.trelef{
+	margin:20px;
+    width:450px;
+    height:300px;
+    float: left;
+    background-image:url(../images/bg1.png);
+    background-size:contain;
+    border-style:dashed;
+    border-color: pink;
+    font-weight: bolder;
+	
+
+}
+.trerig{
+    margin:20px;
+    width:450px;
+    height:300px;
+    float: right;
+    background-image:url(../images/bg1.png);
+    background-size:contain;
+    border-style:dashed;
+    border-color: pink;
+    font-weight: bolder;
+	
+}
+}
+.song1 img{
+	width:450px;
+	height:50px;
+
+
+}
+.song1{
+	color:white;
+	background-color: pink;
+}
+.song2{
+	width:450px;
+    height:400px;
+}
+.song2 ul{
+    list-style-type:none;
+    font-weight: bolder;
+	color:pink;
+}
+.date{
+	float:right;
+}
